@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/common-api-user-role/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-api-user-role/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/role/role-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/role/role-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/role/role-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/role/role-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/role/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/role/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user/user-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user/user-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user/user-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user/user-server/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
